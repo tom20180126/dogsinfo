@@ -57,3 +57,9 @@ gem "haml-rails", "~> 2.0"
 gem "font-awesome-sass"
 gem 'pry-rails'
 gem 'devise'
+gem 'active_hash'
+gem 'ancestry'
+gem 'jquery-rails'
+gem 'erb2haml'
+gem 'carrierwave'
+gem 'mini_magick'
