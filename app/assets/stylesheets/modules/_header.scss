@@ -1,0 +1,31 @@
+.Header {
+  height: 70px;
+  background-color: #0068b7;
+  display: flex;
+  justify-content: space-between;
+  .HeaderLogo {
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+    color: #fdd000;
+    padding: 15px;
+    &__icon {
+      color: #fdd000;
+    }
+  }
+  .HeaderMenu {
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    color: #fdd000;
+    padding: 40px;
+    a {
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  }
+}
+.SubHeader {
+  height: 10px;
+  background-color: #9fd9f6;
+}

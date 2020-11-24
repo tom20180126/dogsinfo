@@ -1,0 +1,15 @@
+.Contents {
+  position: relative;
+  text-align: center;
+  margin-top: 10px;
+  background-color: #9fd9f6;
+  .ContentsNew {
+    position: absolute;
+    color: #fdd000;
+    // font-family: 'Seymour One', sans-serif;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    top: 20px;
+    left: 20px;
+  }
+}
